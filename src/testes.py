@@ -1,3 +1,5 @@
+#autor: André da Costa Soares
+
 import jogovelha
 import sys
 
